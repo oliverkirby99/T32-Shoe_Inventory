@@ -1,3 +1,6 @@
+import os
+print (os.getcwd())
+
 # ========The beginning of the class==========
 class Shoe:
 
